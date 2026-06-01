@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>BACKEND_MODE</key>
+    <string>mock</string>
+    <key>SUPABASE_URL</key>
+    <string>https://your-project-ref.supabase.co</string>
+    <key>SUPABASE_PUBLISHABLE_KEY</key>
+    <string>sb_publishable_your_key_here</string>
+    <key>SUPABASE_SCHEMA</key>
+    <string>public</string>
+    <key>SUPABASE_MEDIA_BUCKET</key>
+    <string>pet-media</string>
+    <key>SUPABASE_AVATAR_PATH_PREFIX</key>
+    <string>avatars</string>
+    <key>SUPABASE_POSTS_PATH_PREFIX</key>
+    <string>posts</string>
+    <key>AI_MODE</key>
+    <string>mock</string>
+    <key>AI_PROXY_BASE_URL</key>
+    <string>https://your-ai-proxy.example.com</string>
+</dict>
+</plist>
